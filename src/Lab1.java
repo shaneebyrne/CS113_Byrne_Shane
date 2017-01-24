@@ -26,7 +26,7 @@ public class Lab1 {
 
     @Override
     public String toString() {
-        return "Number:" + "\t" + aNumber)
+        return "Number:" + "\t" + aNumber;
     }
 
     public String getaNumber() {
